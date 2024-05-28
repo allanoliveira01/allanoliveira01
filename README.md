@@ -1,1 +1,1 @@
-### Eu gosto de jogar bola o tempo livre e ler livros. Meu time de coração é o CORINTHIANS e hoje ele vai ganhar de 10x0. 
+### Todos feios, façam as atividades para poder participar do interclasse. 
