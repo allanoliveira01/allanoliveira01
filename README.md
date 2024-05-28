@@ -1,0 +1,2 @@
+### Aqui é uma descrição sobre mim
+### Meu nome é Allan Gabryel Snatan De Oliveira, tenho 16 anos de idade, moro em Maceío, mas sou da Bahia nascido na cidade de laje e sou bom em qualquer esporte pode vim todos comtra mim que eu vou ganhar da mesma forma. TUDO RUIM nao chega aos meu pés. Estudo na escola Sesi Senai, faça um curso tecnico de informatica para internet.
