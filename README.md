@@ -10,38 +10,23 @@
 ---
 
 ## 🛠 Tecnologias que utilizo
-
 <p align="center">
-  <span class="float">
-    <img alt="HTML" src="https://skillicons.dev/icons?i=html" width="50" height="50"/>
-  </span>
-  <span class="float">
-    <img alt="CSS" src="https://skillicons.dev/icons?i=css" width="50" height="50"/>
-  </span>
-  <span class="float">
-    <img alt="JavaScript" src="https://skillicons.dev/icons?i=js" width="50" height="50"/>
-  </span>
-  <span class="float">
-    <img alt="React" src="https://skillicons.dev/icons?i=react" width="50" height="50"/>
-  </span>
-  <span class="float">
-    <img alt="Node.js" src="https://skillicons.dev/icons?i=nodejs" width="50" height="50"/>
-  </span>
+  <img alt="HTML" src="https://skillicons.dev/icons?i=html" width="50" height="50"/>
+  <img alt="CSS" src="https://skillicons.dev/icons?i=css" width="50" height="50"/>
+  <img alt="JavaScript" src="https://skillicons.dev/icons?i=js" width="50" height="50"/>
+  <img alt="React" src="https://skillicons.dev/icons?i=react" width="50" height="50"/>
+  <img alt="Node.js" src="https://skillicons.dev/icons?i=nodejs" width="50" height="50"/>
 </p>
-
-<style>
-.float {
-  display: inline-block;
-  animation: float 3s ease-in-out infinite;
-  margin: 0 10px;
-}
-
-@keyframes float {
-  0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(-10px); }
-}
-</style>
-
+<p align="center">
+  <img alt="Java" src="https://skillicons.dev/icons?i=java" width="50" height="50"/>
+  <img alt="MySQL" src="https://skillicons.dev/icons?i=mysql" width="50" height="50"/>
+  <img alt="Git" src="https://skillicons.dev/icons?i=git" width="50" height="50"/>
+  <img alt="GitHub" src="https://skillicons.dev/icons?i=github" width="50" height="50"/>
+  <img alt="Cypress" src="https://skillicons.dev/icons?i=cypress" width="50" height="50"/>
+</p>
+<p align="center">
+  <img alt="Jest" src="https://skillicons.dev/icons?i=jest" width="50" height="50"/>
+</p>
 
 ---
 
