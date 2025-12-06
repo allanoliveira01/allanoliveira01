@@ -11,6 +11,20 @@
 
 
 
+/* Grok / xAI contribution graph style - 2025 */
+.js-calendar-graph-svg .ContributionCalendar-grid {
+  filter: brightness(1.1) contrast(1.2);
+}
 
+.ContributionCalendar-day[data-level="0"] { fill: #161b22; }
+.ContributionCalendar-day[data-level="1"] { fill: #0e4429; }
+.ContributionCalendar-day[data-level="2"] { fill: #006d32; }
+.ContributionCalendar-day[data-level="3"] { fill: #26a641; }
+.ContributionCalendar-day[data-level="4"] { fill: #39d353; }
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USERNAME&show_icons=true&theme=radical)
+/* Quadradinho roxo especial (exemplo: hoje) */
+.ContributionCalendar-day.active[data-date="2025-12-06"] {
+  fill: #b13eff !important;
+  stroke: #d2a8ff;
+  stroke-width: 2;
+}
