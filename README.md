@@ -8,9 +8,6 @@
 - 💻 I have professional experience with JavaScript, HTML, CSS, Node.js, MySQL, Cypress, and Jest.
 
 ---
----
-
----
 
 ## 🛠 Tecnologias que utilizo
 <p align="center">
@@ -31,5 +28,5 @@
 
 ## 🐍 Minhas contribuições
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?color=00FFFF" alt="snake animation" />
 </p>
