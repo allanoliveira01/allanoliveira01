@@ -11,18 +11,23 @@
 
 ## 🛠 Tecnologias que utilizo
 <p align="center">
-  <img alt="HTML" src="https://skillicons.dev/icons?i=html" width="60" height="60"/>
-  <img alt="CSS" src="https://skillicons.dev/icons?i=css" width="60" height="60"/>
-  <img alt="JavaScript" src="https://skillicons.dev/icons?i=js" width="60" height="60"/>
-  <img alt="React" src="https://skillicons.dev/icons?i=react" width="60" height="60"/>
-  <img alt="Node.js" src="https://skillicons.dev/icons?i=nodejs" width="60" height="60"/>
-  <img alt="Java" src="https://skillicons.dev/icons?i=java" width="60" height="60"/>
-  <img alt="MySQL" src="https://skillicons.dev/icons?i=mysql" width="60" height="60"/>
-  <img alt="Git" src="https://skillicons.dev/icons?i=git" width="60" height="60"/>
-  <img alt="GitHub" src="https://skillicons.dev/icons?i=github" width="60" height="60"/>
-  <img alt="Cypress" src="https://skillicons.dev/icons?i=cypress" width="60" height="60"/>
-  <img alt="Jest" src="https://skillicons.dev/icons?i=jest" width="60" height="60"/>
+  <img alt="HTML" src="https://skillicons.dev/icons?i=html" width="50" height="50"/>
+  <img alt="CSS" src="https://skillicons.dev/icons?i=css" width="50" height="50"/>
+  <img alt="JavaScript" src="https://skillicons.dev/icons?i=js" width="50" height="50"/>
+  <img alt="React" src="https://skillicons.dev/icons?i=react" width="50" height="50"/>
+  <img alt="Node.js" src="https://skillicons.dev/icons?i=nodejs" width="50" height="50"/>
 </p>
+<p align="center">
+  <img alt="Java" src="https://skillicons.dev/icons?i=java" width="50" height="50"/>
+  <img alt="MySQL" src="https://skillicons.dev/icons?i=mysql" width="50" height="50"/>
+  <img alt="Git" src="https://skillicons.dev/icons?i=git" width="50" height="50"/>
+  <img alt="GitHub" src="https://skillicons.dev/icons?i=github" width="50" height="50"/>
+  <img alt="Cypress" src="https://skillicons.dev/icons?i=cypress" width="50" height="50"/>
+</p>
+<p align="center">
+  <img alt="Jest" src="https://skillicons.dev/icons?i=jest" width="50" height="50"/>
+</p>
+
 ---
 
 ## 🐍 Minhas contribuições 
