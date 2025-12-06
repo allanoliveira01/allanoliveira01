@@ -1,4 +1,4 @@
-# Olá, eu sou o Allan 👋
+![Olá, eu sou o Allan 👋](https://seu-link-do-gif.gif)
 
 🎓 Estudante de Técnico em Informática (3/3) - SENAI Alagoas  
 💻 Experiência com JavaScript, React, Node.js e MySQL
