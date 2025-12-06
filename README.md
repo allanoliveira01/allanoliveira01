@@ -28,5 +28,6 @@
 
 ## 🐍 Minhas contribuições
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?color=00FFFF" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg?color_dots=#e0ffff,#a0ffff,#70f0ff,#40e0ff,#00d0ff" alt="snake animation" />
 </p>
+
