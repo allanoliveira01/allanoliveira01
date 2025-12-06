@@ -1,9 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F700&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Allan+👋)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&width=600&lines=
-<span style='color:%2300F700'>Ol%C3%A1%2C+eu+sou+o+Allan+👋</span>;
-<span style='color:%23FF0077'>Sou+desenvolvedor+web</span>;
-<span style='color:%230077FF'>Adoro+criar+projetos</span>
-)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?
+font=Fira+Code&size=25&pause=1000&color=00FFFF&width=435&
+lines=Hello+People;My+name+is+Allan;Web+Developer)](https://git.io/typing-svg)
 
 🎓 Estudante de Técnico em Informática (3/3) - SENAI Alagoas  
 💻 Experiência com JavaScript, React, Node.js e MySQL
