@@ -13,4 +13,4 @@
 
 
 
-![Minhas contribuições](https://github.com/SEU-USERNAME.png?tab=overview&from=2025-01-01&to=2025-12-31)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USERNAME&show_icons=true&theme=radical)
