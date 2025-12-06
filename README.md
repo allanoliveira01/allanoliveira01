@@ -3,17 +3,11 @@
 </p>
 <hr style="height:2px; border:none; color:#00FFFF; background-color:#00FFFF;">
 
+## 👨‍💻 Sobre mim
 - 🎓 I have successfully completed my Technical Course in Computer Science at SENAI Alagoas (3/3).  
 - 💻 I have professional experience with JavaScript, HTML, CSS, Node.js, MySQL, Cypress, and Jest.
 
 ---
-
-## 👨‍💻 Sobre mim
-- 🎓 Estudante de **Tecnologia da Informação** no Sesi/Senai  
-- 🤖 Ex-competidor de **Robótica**  
-- 🚀 Desenvolvendo projetos em **JavaScript, React, Node.js, Java, MySQL, Jest**  
-- 🎯 Em busca da **primeira experiência profissional** em desenvolvimento web
-
 ---
 
 ---
