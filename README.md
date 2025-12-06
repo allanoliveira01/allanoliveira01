@@ -5,13 +5,6 @@
 
 🎓 I have successfully completed my Technical Course in Computer Science at SENAI Alagoas (3/3).  
 💻 I have professional experience with JavaScript, HTML, CSS, Node.js, MySQL, Cypress, and Jest.
-
-
-
-
-<!-- Título centralizado -->
-<h1 align="center">Desenvolvedor Web</h1>
-
 ---
 
 ## 👨‍💻 Sobre mim
