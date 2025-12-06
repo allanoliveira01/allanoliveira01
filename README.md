@@ -3,7 +3,8 @@
 </p>
 <hr style="height:2px; border:none; color:#00FFFF; background-color:#00FFFF;">
 
-<hr style="height:1px; border:none; background-color:#00FFFF;">
+<hr style="height:0.5px; border:none; background-color:#00FFFF;">
+
 
 
 
