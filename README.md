@@ -9,5 +9,5 @@
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO_AQUI&theme=grok&hide_border=true&custom_title=Minhas%20contribuições&point=FFFFFF&line=00FFFF&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=grok&hide_border=true&custom_title=Minhas%20contribuições&point=FFFFFF&line=39D353&area=true&bg_color=0D1117&color=B13EFF&title_color=00FFFF&hide_title=false&border_radius=10" height="300" />
 </p>
