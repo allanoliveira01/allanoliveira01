@@ -20,7 +20,6 @@
   <img alt="MySQL" src="https://skillicons.dev/icons?i=mysql" width="60" height="60"/>
   <img alt="Git" src="https://skillicons.dev/icons?i=git" width="60" height="60"/>
   <img alt="GitHub" src="https://skillicons.dev/icons?i=github" width="60" height="60"/>
-  <img alt="Vercel" src="https://skillicons.dev/icons?i=vercel" width="60" height="60"/>
   <img alt="Cypress" src="https://skillicons.dev/icons?i=cypress" width="60" height="60"/>
   <img alt="Jest" src="https://skillicons.dev/icons?i=jest" width="60" height="60"/>
 </p>
