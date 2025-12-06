@@ -1,5 +1,5 @@
 <p align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=500&color=00FFFF&width=435&lines=Hello+People!;Welcome+to+my+GitHub.;Web+Developer+💻🌐.)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=500&color=00FFFF&width=435&lines=Hello+People!;Welcome+to+my+GitHub.;Web+Developer+%F0%9F%92%BB%F0%9F%8C%90)](https://git.io/typing-svg)
 </p>
 
 🎓 Estudante de Técnico em Informática (3/3) - SENAI Alagoas  
