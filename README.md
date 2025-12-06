@@ -1,4 +1,4 @@
-# Olá, eu sou o Santos 👋
+# Olá, eu sou o Allan 👋
 
 🎓 Estudante de Técnico em Informática (3/3) - SENAI Alagoas  
 💻 Experiência com JavaScript, React, Node.js e MySQL
