@@ -1,5 +1,4 @@
-![Olá, eu sou o Allan 👋](https://seu-link-do-gif.gif)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F700&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Allan+👋)](https://git.io/typing-svg)
 🎓 Estudante de Técnico em Informática (3/3) - SENAI Alagoas  
 💻 Experiência com JavaScript, React, Node.js e MySQL
 
