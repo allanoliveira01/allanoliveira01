@@ -3,8 +3,9 @@
 </p>
 <hr style="height:2px; border:none; color:#00FFFF; background-color:#00FFFF;">
 
-🎓 I have successfully completed my Technical Course in Computer Science at SENAI Alagoas (3/3).  
-💻 I have professional experience with JavaScript, HTML, CSS, Node.js, MySQL, Cypress, and Jest.
+- 🎓 I have successfully completed my Technical Course in Computer Science at SENAI Alagoas (3/3).  
+- 💻 I have professional experience with JavaScript, HTML, CSS, Node.js, MySQL, Cypress, and Jest.
+
 ---
 
 ## 👨‍💻 Sobre mim
@@ -14,12 +15,6 @@
 - 🎯 Em busca da **primeira experiência profissional** em desenvolvimento web
 
 ---
-
-## 📊 Estatísticas do GitHub
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cardoso-St&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cardoso-St&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true"/>
-</p>
 
 ---
 
@@ -38,17 +33,6 @@
   <img alt="Cypress" src="https://skillicons.dev/icons?i=cypress" width="60" height="60"/>
   <img alt="Jest" src="https://skillicons.dev/icons?i=jest" width="60" height="60"/>
 </p>
-
----
-
-## 🌎 Onde me encontrar
-<p align="center">
-  <a href="https://www.linkedin.com/in/steven-cardoso-b351aa2bb/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Cardoso-St"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.instagram.com/stevencardoso/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://portfolio-cardoso.vercel.app/"><img src="https://img.shields.io/badge/Portfólio-Vercel-00BFFF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
-
 ---
 
 ## 🐍 Minhas contribuições
