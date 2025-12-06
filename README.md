@@ -5,3 +5,6 @@
 
 ## 📊 GitHub Stats
 ![allanoliveira01's GitHub Stats](https://github-readme-stats.vercel.app/api?username=santosdevv&show_icons=true&theme=radical)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
